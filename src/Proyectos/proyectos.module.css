@@ -1,0 +1,44 @@
+.proyectos {
+  width: 85%;
+  height: 92vh;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 8vh 0;
+}
+
+.proyectos h2 {
+  text-align: center;
+  gap: 20px;
+}
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.cards .card {
+  width: 300px;
+  height: auto;
+  border: 2px solid rgb(175, 0, 0);
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.cards .card img {
+  border-radius: 7px;
+}
+
+.cards .card h3 {
+  text-align: center;
+}
+
+.cards .card .github {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
