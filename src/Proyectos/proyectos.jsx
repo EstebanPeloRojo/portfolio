@@ -20,11 +20,11 @@ const Proyecto = () => {
   return (
     <section className={styles.proyectos}>
       <h2>PROYECTOS</h2>
-      <div className={styles.cards}>
+      <div className={styles.cards} >
         {tarjetas.map((card, index) => {
           return (
             <div key={index} className={styles.card}>
-              <div className={styles.img1}>
+              <div className={styles.img1} >
                 <img width="280px" src={card.image} alt="" />
               </div>
               <h3>{card.name}</h3>

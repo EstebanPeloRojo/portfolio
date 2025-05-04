@@ -9,7 +9,7 @@ const SobreMi = () => {
           del Servicio Nacional de Aprendizaje o tambien conocido como SENA, me
           encuentro haciendo una formacion tecnica para la carrera de
           desarrollador de software, soy una persona comunicadora que siempre
-          busca simplificar las palabras para que la gente siempre pueda
+          busca simplificar mi comunicacion para que la gente siempre pueda
           entender lo que expreso, cuento con titulo de bachiller que conseguí
           en la Institucion Educativa Hernando Navia Varon
         </p>

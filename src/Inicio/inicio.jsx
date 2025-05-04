@@ -7,10 +7,9 @@ const Inicio = () => {
       <article className={styles.dev}>
         <h1>Desarrollador Junior</h1>
         <p>
-          Desarrollador web junior Y aprendiz del Servicio Nacional de
-          Aprendizaje, poseo habilidades para desarrollar aplicativos web y
-          conocimiento basico de Back-end. mi enfoque principal es en el
-          front-end.
+          Desarrollador web junior en PHP, Python y javascript, aprendiz del Servicio
+          Nacional de Aprendizaje SENA, poseo habilidades para desarrollar
+          aplicativos web y conocimiento basico de Backend y frontend.
         </p>
       </article>
 
