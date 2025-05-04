@@ -1,7 +1,7 @@
 {
   "name": "portafolio",
   "private": true,
-  "homepage": "https://estebanpelorojo.github.io/Portafolio/build",
+  "homepage": "https://estebanpelorojo.github.io/Portafolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
