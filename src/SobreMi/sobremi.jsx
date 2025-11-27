@@ -5,9 +5,10 @@ const SobreMi = () => {
       <article className={styles.mi}>
         <div className={styles.img}></div>
         <p>
-          Hola, mi nombre es Esteban Montoya Muñoz, actualmente soy un aprendiz
+          Hola, mi nombre es Esteban Montoya Muñoz, actualmente soy estudiante de la universidad del valle
+          pero tambien fui aprendiz 
           del Servicio Nacional de Aprendizaje o tambien conocido como SENA, me
-          encuentro haciendo una formacion tecnica para la carrera de
+          encuentro haciendo una formacion tecnologica para la carrera de
           desarrollador de software, soy una persona comunicadora que siempre
           busca simplificar mi comunicacion para que la gente siempre pueda
           entender lo que expreso, cuento con titulo de bachiller que conseguí
@@ -20,6 +21,8 @@ const SobreMi = () => {
         <div>
           <h3>I.E.T.C Hernando Navia Varon</h3>
           <span>Bachiller</span>
+          <h3>SENA</h3>
+          <span>Tecnico en Programacion de Software</span>
         </div>
       </div>
     </section>

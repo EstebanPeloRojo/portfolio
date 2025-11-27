@@ -15,7 +15,7 @@ const Menu = () => {
           <span>I</span>nicio
         </Link>
         <Link to="/Portafolio-React/Proyectos">
-          <span>P</span>royectos
+          <span>T</span>rabajos
         </Link>
         <Link to="/Portafolio-React/SobreMi">
           <span>S</span>obre Mi

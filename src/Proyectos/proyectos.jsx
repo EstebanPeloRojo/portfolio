@@ -19,7 +19,7 @@ const Proyecto = () => {
   ];
   return (
     <section className={styles.proyectos}>
-      <h2>PROYECTOS</h2>
+      <h2>TRABAJOS</h2>
       <div className={styles.cards} >
         {tarjetas.map((card, index) => {
           return (

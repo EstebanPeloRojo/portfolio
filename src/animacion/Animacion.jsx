@@ -1,4 +1,4 @@
-import styles from '../Animacion/Animacion.module.css'
+import styles from '../animacion/Animacion.module.css'
 
 const Animacion = () => {
     return (
