@@ -6,10 +6,6 @@ import img4 from "../assets/forest.png"
 import img5 from "../assets/notion.png"
 import img6 from "../assets/habilidades.png"
 import play from "../assets/reproducir.png"
-import html from "../assets/icons8-html-50.png";
-import css from "../assets/icons8-css-50.png";
-import php from "../assets/icons8-php-50.png";
-import lvl from "../assets/icons8-laravel-50.png";
 
 const Proyecto = () => {
   const tarjetas = [
