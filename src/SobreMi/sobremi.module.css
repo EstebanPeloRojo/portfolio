@@ -25,6 +25,15 @@
   border-radius: 50%;
 }
 
+.SobreMi .mi .img img {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  border: 2px solid;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 .SobreMi .mi p {
   font-size: 1.2rem;
   font-weight: 600;

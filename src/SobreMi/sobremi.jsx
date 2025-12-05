@@ -1,9 +1,12 @@
 import styles from "../SobreMi/sobremi.module.css";
+import perfil from "../assets/perfil.jpeg";
 const SobreMi = () => {
   return (
     <section className={styles.SobreMi}>
       <article className={styles.mi}>
-        <div className={styles.img}></div>
+        <div className={styles.img}>
+          <img src={perfil} alt="miFoto" />
+        </div>
         <p>
           Hola, mi nombre es Esteban Montoya Muñoz, actualmente soy estudiante de la universidad del valle
           pero tambien fui aprendiz 
